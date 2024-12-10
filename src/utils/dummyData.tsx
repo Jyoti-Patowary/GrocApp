@@ -30,7 +30,7 @@ const productsList =
         {
             id: 1,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 38,
             quantity: '500 ml',
@@ -38,7 +38,7 @@ const productsList =
         {
             id: 2,
             name: 'Gowardhan Panner',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/app/images/products/sliding_image/123007a.jpg?ts=1688973208',
+            image: require('../assets/category/Gowardhan_Panner.png'),
             price: 89,
             discountPrice: 99,
             quantity: '200 gm',
@@ -46,7 +46,7 @@ const productsList =
         {
             id: 3,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -54,7 +54,7 @@ const productsList =
         {
             id: 4,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -62,7 +62,7 @@ const productsList =
         {
             id: 5,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -70,7 +70,7 @@ const productsList =
         {
             id: 6,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -78,7 +78,7 @@ const productsList =
         {
             id: 7,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -86,7 +86,7 @@ const productsList =
         {
             id: 8,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -94,7 +94,7 @@ const productsList =
         , {
             id: 9,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',
@@ -102,7 +102,7 @@ const productsList =
         , {
             id: 10,
             name: 'Amul Gold Full Cream Fresh Milk',
-            image: 'https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=360/app/assets/products/sliding_images/jpeg/1c0db977-31ab-4d8e-abf3-d42e4a4b4632.jpg?ts=1706182142',
+            image: require('../assets/category/Amul_Gold.png'),
             price: 34,
             discountPrice: 45,
             quantity: '500 ml',

@@ -28,12 +28,14 @@ const CustomHeader: FC<{ title: string; search?: boolean }> = ({ title, search }
 const styles = StyleSheet.create({
   flexRow: {
     height: 60,
-    backgroundColor: 'black',
+    flexDirection: 'row',
+    backgroundColor: 'white',
     justifyContent: 'space-between',
     alignItems: 'center',
     padding: 10,
     borderBottomWidth: 0.6,
     borderColor: Colors.border,
+    marginTop: 35,
   },
   text: {
     textAlign: 'center',
